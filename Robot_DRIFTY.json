@@ -1,0 +1,16 @@
+{
+    "sourceUrl": "",
+    "rotations": [
+      {
+        "axis": "y",
+        "degrees": 180
+      },
+      {
+        "axis":"z",
+        "degrees": -90
+      }
+    ],
+    "position": [-0.5, -0.38, -0.3],
+    "cameras":[],
+    "components": []
+  }
